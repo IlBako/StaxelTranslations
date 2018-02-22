@@ -35,7 +35,7 @@ staxel.village.dialogue.Barkeep.line:10000630=I gatti sono super carini!
 //[Reference] 'Dogs are the coolest!'
 staxel.village.dialogue.Barkeep.line:10000640=I cani sono i più belli!
 //[Reference] 'Oh! How lucky for you!'
-staxel.village.dialogue.Barkeep.line:10000650=Oh! Che fortuna per te!
+staxel.village.dialogue.Barkeep.line:10000650=Oh! Come sei fortunato!
 //[Reference] 'A merchant came by the other day whose aunt's friend's sister's son had a litter!'
 staxel.village.dialogue.Barkeep.line:10000660=Un mercante arrivò l'altro giorno il cui figlio della sorella di un'amica della zia aveva una cucciolata!
 //[Reference] 'If you come back once you're done with ^c:1486b0;{0-tut_name}^c:pop;, I might just have one for you!'
@@ -47,11 +47,11 @@ staxel.village.dialogue.Barkeep.line:10002600=Spero di vederti in giro!
 //[Reference] 'Hmm... doesn't look like there's much going on right now.'
 staxel.village.dialogue.Barkeep.line:10002700=Hmm ... non è che stia succedendo molto in questi giorni.
 //[Reference] 'I haven't heard any rumours today.'
-staxel.village.dialogue.Barkeep.line:10002800=Oggi non ho sentito nessuna voce.
+staxel.village.dialogue.Barkeep.line:10002800=Oggi non ho sentito nessun pettegolezzo.
 //[Reference] 'Supposedly ^c:1486b0;{0-quest_giver_0}^c:pop; is having a little trouble.'
 staxel.village.dialogue.Barkeep.line:10002900=Forse ^c:1486b0;{0-quest_giver_0}^c:pop; ha un problemino.
 //[Reference] 'Seems things aren't perfect for ^c:1486b0;{0-quest_giver_1}^c:pop; either.'
-staxel.village.dialogue.Barkeep.line:10003000=Sembra che le cose non sono perfette nemmeno per ^c:1486b0;{0-quest_giver_1}^c:pop;
+staxel.village.dialogue.Barkeep.line:10003000=Sembra che le cose non siano perfette nemmeno per ^c:1486b0;{0-quest_giver_1}^c:pop;
 //[Reference] '^c:1486b0;{0-quest_giver_2}^c:pop; might appreciate some help too.'
 staxel.village.dialogue.Barkeep.line:10003100=^c:1486b0;{0-quest_giver_2}^c:pop; avrebbe bisogno di aiuto.
 //[Reference] 'What will you have?'
@@ -67,7 +67,7 @@ staxel.village.dialogue.Barkeep.line:10003800=Ah bene, forse un'altra volta?
 //[Reference] 'Hmm... doesn't look like you can afford that.'
 staxel.village.dialogue.Barkeep.line:10003900=Hmm ... non sembra che te lo possa permettere.
 //[Reference] 'Come back when you have some cash!'
-staxel.village.dialogue.Barkeep.line:10004000=Torna quando hai del denaro!
+staxel.village.dialogue.Barkeep.line:10004000=Torna quando avrai del denaro!
 //[Reference] 'Good day {0-playername}!'
 staxel.village.dialogue.Barkeep.line:10005000=Buona giornata {0-playername}!
 //[Reference] 'Is that a note for me?'
@@ -75,7 +75,7 @@ staxel.village.dialogue.Barkeep.line:10005100=È una nota per me?
 //[Reference] 'Hmm... so ^c:1486b0;{0-tut_name}^c:pop; sent you to fetch her some more sap eh?'
 staxel.village.dialogue.Barkeep.line:10005200=Hmm... quindi ^c:1486b0;{0-tut_name}^c:pop; ti ha mandato per prendere un po' di linfa eh?
 //[Reference] 'She drinks far too much of the stuff...'
-staxel.village.dialogue.Barkeep.line:10005300=Lei beve troppo...
+staxel.village.dialogue.Barkeep.line:10005300=Lei ne beve troppo...
 //[Reference] 'Hmm...'
 staxel.village.dialogue.Barkeep.line:10005400=Hmm...
 //[Reference] 'Tell you what, run a little errand for me and I'll see what I can do.'
@@ -99,7 +99,7 @@ staxel.village.dialogue.Barkeep.line:10006300=Ah! Questo aroma opprimente!
 //[Reference] 'You have my parcel!'
 staxel.village.dialogue.Barkeep.line:10006400=Hai il mio pacco!
 //[Reference] 'I can't express just how much I've been looking forward to this!'
-staxel.village.dialogue.Barkeep.line:10006500=Non posso esprimere con quanta impazienza aspettato!
+staxel.village.dialogue.Barkeep.line:10006500=Non so esprimere con quanta impazienza l'ho aspettato!
 //[Reference] 'The entrancing fragrance... the incomparable flavours...'
 staxel.village.dialogue.Barkeep.line:10006600=La fragranza avvolgente ... i sapori inimitabili ...
 //[Reference] 'Hm? You want to know what's in the package?'
@@ -109,7 +109,7 @@ staxel.village.dialogue.Barkeep.line:10006800=È un pesce fermentato speciale!
 //[Reference] 'There's only a few islands out there that produce it so it's pretty hard to come by!'
 staxel.village.dialogue.Barkeep.line:10006900=Ci sono solo poche isole là fuori che lo producono, quindi è piuttosto difficile da trovare!
 //[Reference] 'I like to tease ^c:1486b0;{0-shop_name}^c:pop; a little by having it sent to the store first...'
-staxel.village.dialogue.Barkeep.line:10007000=Mi piace prendere in giro ^c:1486b0;{0-shop_name}^c:pop;  un po' per averlo inviato al negozio ...
+staxel.village.dialogue.Barkeep.line:10007000=Mi piace prendere un po' in giro ^c:1486b0;{0-shop_name}^c:pop;  mandandolo prima al negozio ...
 //[Reference] 'But enough about that! I imagine you're eager to get back to your pet!'
 staxel.village.dialogue.Barkeep.line:10007100=Ma basta! Immagino che tu sia desideroso di tornare dal tuo animale domestico!
 //[Reference] 'Hm? Oh! I didn't tell you?'
@@ -121,13 +121,13 @@ staxel.village.dialogue.Barkeep.line:10007400=C'è una lettera con qualche consi
 //[Reference] 'Make sure you give it to her for me!'
 staxel.village.dialogue.Barkeep.line:10007500=Assicurati di darglielo per me!
 //[Reference] 'Don't worry about the sap she sent you for - I've already dealt with that.'
-staxel.village.dialogue.Barkeep.line:10007600=Non preoccuparti per la linfa per cui ti ha mandato - l'ho già affrontato.
+staxel.village.dialogue.Barkeep.line:10007600=Non preoccuparti per la linfa per cui ti ha mandato - ho già risolto.
 //[Reference] 'You should hurry on back to meet your new companion!'
 staxel.village.dialogue.Barkeep.line:10007700=Dovresti affrettarti a tornare per incontrare il tuo nuovo compagno!
 //[Reference] 'Remember - you're welcome here any time!'
 staxel.village.dialogue.Barkeep.line:10007800=Ricorda: qui sei il benvenuto in qualsiasi momento!
 //[Reference] 'It usually gets a bit livelier in the evenings so that might be a nice time to stop by!'
-staxel.village.dialogue.Barkeep.line:10007900=Di solito diventa un po 'più vivace la sera, quindi potrebbe essere un buon momento per fermarsi!
+staxel.village.dialogue.Barkeep.line:10007900=Di solito diventa un po 'più vivace la sera, quindi quello potrebbe essere un buon momento per fermarsi!
 //[Reference] 'You probably shouldn't stay out too late though!'
 staxel.village.dialogue.Barkeep.line:10008000=Non dovresti stare fuori fino a tardi!
 //[Reference] 'It's good to get back to your bed and sleep the night away.'
